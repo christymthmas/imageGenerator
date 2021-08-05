@@ -26,7 +26,7 @@ def createImgRandomColor(width, height,number,folderName="Result"):
     shuffle(color_name)
     print("\n\n---Generating {} image(s) with dimensions {}px x {}px---\n\n".format(number,width,height))
 
-    sleep(3)
+    #sleep(3)
 
     for i in range(number):
         im=Image.new("RGB",(width,height),color_name[i])
