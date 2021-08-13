@@ -37,7 +37,7 @@ def createImgRandomColor(width, height,number,folderName="Result"):
     print("""\n\nImages will be available at "{}"\n
 ---------Task-Completed---------\n\n""".format(path))
 
-
+#driver code
 
 if __name__ == "__main__":
     print("\n\n-----Image Generator w/ Random Solid Colours-----\n\n")
