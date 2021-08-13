@@ -38,7 +38,6 @@ def createImgRandomColor(width, height,number,folderName="Result"):
 ---------Task-Completed---------\n\n""".format(path))
 
 
-# Driver Code
 
 if __name__ == "__main__":
     print("\n\n-----Image Generator w/ Random Solid Colours-----\n\n")
