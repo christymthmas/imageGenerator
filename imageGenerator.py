@@ -2,7 +2,7 @@ from PIL import Image
 import webcolors as wb
 from random import shuffle
 import os
-from time import sleep 
+# from time import sleep 
 
 
 def createImgRandomColor(width, height,number,folderName="Result"):
